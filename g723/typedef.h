@@ -6,6 +6,8 @@
     Universite de Sherbrooke.  All rights reserved.
 */
 
+#pragma once
+
 
 /*
    Types definitions
